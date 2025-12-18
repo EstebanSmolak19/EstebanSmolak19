@@ -93,7 +93,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstebanSmolak19&show_icons=true&custom_title=Statistiques%20Globales&theme=nightowl&hide_border=false&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstebanSmolak19&show_icons=true&custom_title=Statistiques%20Globales&theme=nightowl&hide_border=false" height="180" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanSmolak19&layout=compact&custom_title=Top%20Langages&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
