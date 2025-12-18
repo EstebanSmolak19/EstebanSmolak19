@@ -12,6 +12,17 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/EstebanSmolak19?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EstebanSmolak19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/EstebanSmolak19?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EstebanSmolak19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+  <img src="https://komarev.com/ghpvc/?username=EstebanSmolak19&color=ffcc00&style=for-the-badge&label=Visiteurs" alt="Compteur de visiteurs" />
+</p>
+
+<br/>
+
+<p align="center">
  Actuellement en formation <b>BTS SIO</b> (Services Informatiques aux Organisations), je me spécialise dans l'option <b>SLAM</b> (Solutions Logicielles et Applications Métiers). J'apprends à concevoir et développer des solutions informatiques.
 </p>
 
@@ -113,9 +124,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EstebanSmolak19&color=ffcc00&style=for-the-badge&label=Visiteurs" alt="Compteur de visiteurs" />
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
