@@ -27,6 +27,8 @@ Dernière maj : 19/12/2025 17:38:09
 </p>
 
 <br>
+<hr>
+
 
 <h3 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="25" style="vertical-align:middle; margin-right: 8px;">
@@ -73,6 +75,8 @@ Dernière maj : 19/12/2025 17:38:09
 </div>
 
 <br>
+<hr>
+
 
 <h3 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4246/4246540.png" width="25" style="vertical-align:middle; margin-right: 8px;">
@@ -87,6 +91,14 @@ Dernière maj : 19/12/2025 17:38:09
 
 <br>
 
+<div align="center">
+  <img src="./screen/ATLAS.gif" width="25%" />
+</div>
+
+<br>
+<hr>
+
+
 <h3 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4008/4008638.png" width="28" style="vertical-align:middle; margin-right: 8px;">
   Mes statistiques
@@ -99,6 +111,8 @@ Dernière maj : 19/12/2025 17:38:09
 </div>
 
 <br>
+<hr>
+
 
 <h3 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/808/808476.png" width="25" style="vertical-align:middle; margin-right: 8px;">
