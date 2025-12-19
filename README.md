@@ -1,4 +1,4 @@
-![Bannière de profil](./images/banner.png)
+Dernière maj : 19/12/2025 17:29:32
 
 <h1 align="center">
   Bonjour, je suis Esteban
