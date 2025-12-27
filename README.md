@@ -84,9 +84,7 @@ Dernière maj : 27/12/2025 07:50:54
 </h3>
 
 <div align="center">
-  <a href="https://github.com/EstebanSmolak19/Atlas">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=EstebanSmolak19&repo=Atlas&bg_color=45,051f33,1a237e&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&border_color=ffcc00&hide_border=false" />
-  </a>
+  <a href="https://github.com/EstebanSmolak19/Atlas"></a>
 </div>
 
 <br>
@@ -97,22 +95,6 @@ Dernière maj : 27/12/2025 07:50:54
 
 <br>
 <hr>
-
-
-<h3 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4008/4008638.png" width="28" style="vertical-align:middle; margin-right: 8px;">
-  Mes statistiques
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstebanSmolak19&show_icons=true&custom_title=Statistiques%20Globales&theme=nightowl&hide_border=false" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanSmolak19&layout=compact&custom_title=Top%20Langages&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
-</div>
-
-<br>
-<hr>
-
 
 <h3 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/808/808476.png" width="25" style="vertical-align:middle; margin-right: 8px;">
