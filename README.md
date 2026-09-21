@@ -1,5 +1,3 @@
-Dernière maj : 20/09/2026 13:39:03
-
 <h1 align="center">
   Bonjour, je suis Esteban
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -7,7 +5,7 @@ Dernière maj : 20/09/2026 13:39:03
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&pause=1000&color=FFCC00&center=true&vCenter=true&width=500&lines=%C3%89Étudiant+en+BTS+SIO+option+SLAM;Futur+D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+par+le+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&pause=1000&color=FFCC00&center=true&vCenter=true&width=500&lines=%C3%89tudiant+en+BUT3+Informatique;Futur+D%C3%A9veloppeur+Full+Stack;Passionn%C3%A9+par+le+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +21,7 @@ Dernière maj : 20/09/2026 13:39:03
 <br/>
 
 <p align="center">
- Actuellement en formation <b>BTS SIO</b> (Services Informatiques aux Organisations), je me spécialise dans l'option <b>SLAM</b> (Solutions Logicielles et Applications Métiers). J'apprends à concevoir et développer des solutions informatiques.
+ Actuellement en 3ème année de <b>BUT Informatique</b> à <b>Sophia Antipolis</b>, j'approfondis la conception logicielle, l'architecture et le développement d'applications complètes et performantes.
 </p>
 
 <br>
@@ -46,6 +44,7 @@ Dernière maj : 20/09/2026 13:39:03
   <br>
 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
